@@ -1,0 +1,5 @@
+2019/10/29 03:33:55 [error] 7#7: *2 "/var/www/hello.test/index.php" is not found (2: No such file or directory), client: 172.23.0.1, server: hello.test, request: "GET / HTTP/1.1", host: "127.0.0.1:8000"
+2019/10/29 03:33:58 [error] 7#7: *2 "/var/www/hello.test/index.php" is not found (2: No such file or directory), client: 172.23.0.1, server: hello.test, request: "GET / HTTP/1.1", host: "127.0.0.1:8000"
+2019/10/29 03:34:03 [error] 7#7: *2 "/var/www/hello.test/index.php" is not found (2: No such file or directory), client: 172.23.0.1, server: hello.test, request: "GET / HTTP/1.1", host: "127.0.0.1:8000"
+2019/10/29 03:34:21 [error] 7#7: *2 "/var/www/hello.test/index.php" is not found (2: No such file or directory), client: 172.23.0.1, server: hello.test, request: "GET / HTTP/1.1", host: "127.0.0.1:8000"
+2019/10/30 07:11:42 [error] 8#8: *12 open() "/var/www/app/public/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: app.api, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://127.0.0.1:8000/api/games"
